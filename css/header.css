@@ -1,0 +1,22 @@
+/*-----header section------*/
+
+header {
+    background: #ffa31a;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+  
+  .hed1 img {
+    margin: 20px 0px 20px 150px;
+    width: 100px;
+  }
+  
+  .hed2 {
+    margin: 25px 0px 25px 47px;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: #000000;
+  }
+  

@@ -1,0 +1,33 @@
+/*-----Section-1 -----*/
+
+.section1 {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  margin: 20px 80px;
+  background-color: blueviolet;
+}
+
+.set1-box {
+  width: 60%;
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+
+.set2-box img {
+  width: 510px;
+  height: 480px;
+  margin-left: 200px;
+  margin-top: 20px;
+}
+
+.set1-box h1 {
+  font-size: 39px;
+  margin-bottom: 25px;
+}
+
+.set1-box h3 {
+  font-size: medium;
+  line-height: 30px;
+}
