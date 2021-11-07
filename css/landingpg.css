@@ -6,7 +6,6 @@
   align-items: center;
   font-family: "Poppins", sans-serif;
   margin: 20px 80px;
-  background-color: blueviolet;
 }
 
 .set1-box {
@@ -23,11 +22,46 @@
 }
 
 .set1-box h1 {
-  font-size: 39px;
+  font-size: 37px;
   margin-bottom: 25px;
 }
 
 .set1-box h3 {
   font-size: medium;
   line-height: 30px;
+}
+
+/*-----Section-2 -----*/
+
+.section2 {
+  margin: 20px 40px 20px 100px;
+}
+
+.cards {
+  width: 20%;
+  border-radius: 15px;
+  border: 2px solid black;
+  display: inline-block;
+  margin: 20px 60px 10px 0px;
+  min-height: 25vh;
+  align-items: center;
+}
+
+.card {
+  text-align: center;
+}
+
+.img1 {
+  width: 50%;
+}
+.img2 {
+  width: 57%;
+  border-radius: 80px;
+  padding: 15px;
+}
+
+.img3 {
+  width: 41.5%;
+  padding: 15px;
+  border-radius: 30px;
 }

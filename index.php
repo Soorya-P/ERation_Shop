@@ -24,28 +24,51 @@
             <h4>Food, Civil Supplies and Consumer Affairs department Government of Kerala</h4>
         </div>
     </header>
-    <section>
-        <div class="section1">
-            <div class="set1-box">
-                <h1>E-Ration Shop Management</h1>
-                <h3>
-                    The Indian ration card provides food fo the poor people which is
-                    distributed by the government along with the fuel. It provides a
-                    distint identity of person which is useful to update with the
-                    government record. The basic food items provided by government
-                    are rice, sugar, wheat.
-                </h3>
-            </div>
-            <div class="set2-box">
-                <img src="./image/landing_page/items.png" />
+    <section class="section1">
+
+        <div class="set1-box">
+            <h1>E-Ration Shop Management</h1>
+            <h3>
+                The Indian ration card provides food fo the poor people which is
+                distributed by the government along with the fuel. It provides a
+                distint identity of person which is useful to update with the
+                government record. The basic food items provided by government
+                are rice, sugar, wheat.
+            </h3>
+        </div>
+        <div class="set2-box">
+            <img src="./image/landing_page/items.png" />
+        </div>
+    </section>
+    <section class="section2">
+        <div class="cards">
+            <div class="card">
+                <img src="./image/landing_page/shop.png" class="img1" />
+                <h2>Total Shops: 14235</h2>
             </div>
         </div>
-        <div class="section2">
-            <div class="set3-box box">
-                <img src="./image/landing_page/shop.png" />
-                <h3>Total shops</h3>
+        <div class="cards">
+
+            <div class="card">
+                <img src="./image/landing_page/cards.png" class="img2" />
+                <h2>Total Cards: 9102171</h2>
             </div>
         </div>
+        <div class="cards">
+
+            <div class="card">
+                <img src="./image/landing_page/eservice.png" class="img3" />
+                <h2>eServices: 6477955</h2>
+            </div>
+        </div>
+        <div class="cards">
+            <div class="card">
+                <img src="./image/landing_page/cards.png" class="img2" />
+                <h2>Card Types: 5</h2>
+            </div>
+        </div>
+    </section>
+
     </section>
 </body>
 
