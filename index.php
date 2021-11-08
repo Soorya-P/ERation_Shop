@@ -68,7 +68,10 @@
             </div>
         </div>
     </section>
-
+    <section class="section3">
+        <div class="head">
+            <h2> hi world</h2>
+        </div>
     </section>
 </body>
 
